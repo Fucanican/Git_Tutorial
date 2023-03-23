@@ -1,0 +1,13 @@
+git init
+git add .
+git commit -m 'text message'
+git branch -M master
+// git remote add origin [link]
+// git push -u origin master
+
+git clone [link] ---
+git pull --- pull all in refo
+
+git checkout -b feature/contact --- create new branch
+git checkout feature/contact --- use contact branch
+
